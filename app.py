@@ -475,4 +475,3 @@ if st.button("Analyze Contract", type="primary"):
                 file_name="Kestrl_Compliance_Report.pdf",
                 mime="application/pdf"
             )
-�
