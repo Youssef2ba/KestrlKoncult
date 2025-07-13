@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+sentence-transformers
+faiss-cpu
+PyMuPDF
+numpy
+markdown2
+WeasyPrint==59.0
+pydyf==0.8.0
+importlib-metadata<5.0.0
